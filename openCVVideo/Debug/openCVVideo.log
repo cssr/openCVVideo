@@ -1,0 +1,2 @@
+﻿openCVVideo.obj : error LNK2019: unresolved external symbol "private: void __thiscall cv::String::deallocate(void)" (?deallocate@String@cv@@AAEXXZ) referenced in function "public: __thiscall cv::String::~String(void)" (??1String@cv@@QAE@XZ)
+B:\Development\openCVVideo\Debug\openCVVideo.exe : fatal error LNK1120: 1 unresolved externals
